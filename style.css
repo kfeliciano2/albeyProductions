@@ -1,0 +1,13 @@
+
+
+.photos{
+    background-color: black;
+    display:grid;
+    grid-template-columns:repeat(3, 1fr);
+}
+
+.imgbox {
+    background-color: aqua;
+    border:solid 5px pink;
+    width:50px;
+}
